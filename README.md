@@ -12,3 +12,11 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+## Screenshots
+This is the frontpage:
+![Alt text](https://github.com/Fahadeidalharbi/Disaster-Response-Pipelines/blob/master/Screenshot-1.png?raw=true "Screenshot-1")
+
+By inputting a word, you can check its category:
+![Alt text](https://github.com/Fahadeidalharbi/Disaster-Response-Pipelines/blob/master/Screenshot-2.png?raw=true "Screenshot-2")
